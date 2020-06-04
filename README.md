@@ -4,13 +4,6 @@
  
   It was announced and released in July 2018.
  
- ==========================================
-           
-           *BUILD INSTRUCTION*           
-          
-    . build/envsetup.sh && lunch omni_daisy-eng && make -j$(nproc --all) bootimage
-        
- ==========================================
  ## Device specifications
  
   Basic   | Spec Sheet
